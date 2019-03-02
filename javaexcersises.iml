@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module version="4">
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/target" />
+    <output-test url="file://$MODULE_DIR$/target" />
+    <content url="file://$MODULE_DIR$/src/main">
+      <sourceFolder url="file://$MODULE_DIR$/src/main" isTestSource="false" packagePrefix="chapter4" />
+    </content>
+    <content url="file://$MODULE_DIR$/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/src/test" isTestSource="true" packagePrefix="chapter4" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
